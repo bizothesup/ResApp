@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="language_french">fr</string>
+
+
+    <string name="font_regular">fonts/Poppins-Regular.ttf</string>
+    <string name="font_medium">fonts/Poppins-Medium.ttf</string>
+    <string name="font_bold">fonts/Poppins-Bold.ttf</string>
+    <string name="font_black">fonts/Poppins-Black.ttf</string>
+    <string name="font_thin">fonts/Poppins-SemiBold.ttf</string>
+    <string name="font_light">fonts/Poppins-Light.ttf</string>
+    <string name="font_italic">fonts/Poppins-ExtraBold.ttf</string>
+    <string name="logout">Êtes-vous sûr de vous déconnecter de cette application ?</string>
+    <string name="okay">OUI</string>
+    <string name="no_internet">Pas de connexion Internet.\n Accédez aux paramètres de l\'appareil et connectez-vous au réseau</string>
+
+</resources>
